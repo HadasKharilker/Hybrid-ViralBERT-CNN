@@ -1,3 +1,5 @@
+If you use or distribute it, please include a reference to the original repository and acknowledge the author.
+
 # **K-pop Tweet Virality Prediction using a Hybrid ViralBERT-CNN Model**
 
 This project introduces a novel hybrid model, **Hybrid ViralBERT-CNN**, designed to predict the virality of K-pop related tweets on X (formerly Twitter) with state-of-the-art accuracy. By combining architectural enhancements with an advanced data preprocessing pipeline, this model significantly outperforms existing baselines.
